@@ -81,3 +81,27 @@ Lets Jump to Dashboard:
 
 
 ## Important KPI's:
+
+![Screenshot 2024-06-08 084714](https://github.com/user-saddam123/Travel-Trends-Maven-National-Rail-Insights-for-Rail-Managers/assets/123800896/0f15b622-effa-4719-877f-6cb98e0a264e)
+
+ * **Total Bookings** :Total bookings represent the total number of train ticket transactions recorded within a specified timeframe. I have also displayed the percentage of Total bookings out of the total bookings along with their MoM growth.
+
+ * **Successful Bookings**: Successful bookings indicate tickets that resulted in *actual travel without being delayed or canceled, hence not refunded.
+
+ * **Refund Tickets:** Refund tickets represent the *number of tickets for which refunds were applied due to delays or cancellations.
+
+ * **Total Revenue:** Total revenue is the sum of the price of all purchased tickets. 
+
+📝It is calculated by summing up the ticket prices, providing a measure of the total income generated from ticket sales.
+
+ * **Net Revenue:** Net revenue indicates the revenue generated from successful bookings, excluding any amounts refunded. 
+
+📝It is calculated by subtracting the refund amount from the total revenue.
+
+* **Refund Amount**; Refund amount indicates the total value of ticket prices that have been refunded due to delays or cancellations. 
+
+📝This metric is derived from summing up the refunded ticket prices.
+
+#
+
+
