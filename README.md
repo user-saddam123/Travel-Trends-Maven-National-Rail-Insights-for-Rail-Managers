@@ -26,4 +26,6 @@ My manager tasked me with creating an exploratory dashboard with the following o
 Before proceeding further, I would like to provide an overview of the dataset used in this project
 
 ## About the Dataset
+
+https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/188207037/projects/23e61a0b-0150-47d0-8a54-1ac2c0fec122.jpg
 undefinedFor this dashboard, I have been provided with a dataset related to ticket bookings for Maven National Rail from December 8, 2023, to April 30, 2024. The dataset contains 31,563 rows of data, capturing essential details about each ticket purchase.
