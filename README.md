@@ -1,2 +1,7 @@
-# Travel-Trends-Maven-National-Rail-Insights-for-Rail-Managers
-For the Maven Rail Challenge, I developed a dashboard to identify popular train routes, determine peak travel times, evaluate revenue from different ticket types and classes, and diagnose factors affecting on-time performance for National Rail.
+# Travel Trends Maven National Rail Insights for Rail Managers
+## Created & Analyzed by Saddam Ansari @Aspiring Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+
+### Live Dashboard at Novypro [Live_link_Novypro](https://project.novypro.com/0kedOi)
+
+#
+
